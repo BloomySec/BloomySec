@@ -8,7 +8,7 @@ Currently building skills through CompTIA certifications and practical labs.
 
 **Key Transferable Skills:** Process optimization | Cross-functional collaboration | Global stakeholder management | Quality assurance | Data analysis | High-pressure delivery
 
-**Why cybersecurity?** Having been personally affected by two major cybersecurity incidents in Australia, I understand their tangible impact on individuals and organizations. My detail-oriented approach equips me to identify anomalies and deviations from expected system behavior and precisely act, motivating me to contribute to protecting others from similar disruptions.
+**Why cybersecurity?** Having watched closely a fee major cybersecurity incidents in Australia, I understand their tangible impact on individuals and organizations. My detail-oriented approach equips me to identify anomalies and deviations from expected system behavior and precisely act, motivating me to contribute to protecting others from similar disruptions.
 
 ## 🛡️ Featured Projects
 - [Cyber Security 101: TryHackMe](https://github.com/BloomySec/CyberSecurity-101.git)
