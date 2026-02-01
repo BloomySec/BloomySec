@@ -11,7 +11,7 @@ Currently building skills through CompTIA certifications and practical labs.
 **Why cybersecurity?** Having been personally affected by two major cybersecurity incidents in Australia, I understand their tangible impact on individuals and organizations. My detail-oriented approach equips me to identify anomalies and deviations from expected system behavior and precisely act, motivating me to contribute to protecting others from similar disruptions.
 
 ## 🛡️ Featured Projects
-- Cyber Security 101: TryHackMe
+- [Cyber Security 101: TryHackMe](https://github.com/BloomySec/CyberSecurity-101.git)
 
 ## 📚 Certifications
 - CompTIA A+ & Network+ (completed)
@@ -19,7 +19,7 @@ Currently building skills through CompTIA certifications and practical labs.
 - Practical labs & CTFs
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/carla-fioriolli) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/carla-fioriolli) 
 [![Email](https://img.shields.io/badge/Email-Contact-gray)](mailto:carlaf.cyber@gmail.com)
 
 ---
